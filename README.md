@@ -1,5 +1,4 @@
-# prueba
-# Nombre del Proyecto
+# Prueba Uno
 
 Una breve descripción de lo que hace tu proyecto y qué problema resuelve.
 
