@@ -4,7 +4,7 @@ Una breve descripción de lo que hace tu proyecto y qué problema resuelve.
 
 ## Tabla de Contenidos
 
-- [Descripción](#descripción)
+- [Gato](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQd1kWKsODGmz1P44kiLTfpeIOkaemYITnaRVOZEn372xCyrpNoQQ_dMDAV4dWLpVTDFekNEtlkJaDnhlTzoQWdNg)
 - [Instalación](#instalación)
 - [Uso](#uso)
 - [Contribuciones](#contribuciones)
